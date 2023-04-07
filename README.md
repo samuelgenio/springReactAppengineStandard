@@ -26,7 +26,7 @@ In this project you will find:
 
 ## How to deploy 
 
-1. Set up project id in `/root-project/build.gradlew`
+1. Set up project id in `/root-project/build.gradle`
 ```
     projectId = "my-project-id"
 ```
